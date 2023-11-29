@@ -1,6 +1,3 @@
-Absolutely, let's condense the description to fit within 350 characters:
-
----
 
 **App Name: RandomTutorializer**
 
