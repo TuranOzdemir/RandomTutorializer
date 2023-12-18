@@ -27,6 +27,23 @@ Add new tutorials, register for updates, and enhance your learning experience. S
 - Register page for update, reminder and motivational emails
 - download button to download videos easily to local computer directory
 
+---------------------------------------------------------------------------------------------------------------------
+menu:
+![image](https://github.com/TuranOzdemir/RandomTutorializer/assets/62646952/490fe3b4-6575-4e90-a4f6-4e5db2b8d2f0)
+
+---------------------------------------------------------------------------------------------------------------------
+
+add new video:
+![image](https://github.com/TuranOzdemir/RandomTutorializer/assets/62646952/20fe9194-0326-4895-b4ab-39e305cccf2a)
+
+---------------------------------------------------------------------------------------------------------------------
+
+todays tutorial page:
+![image](https://github.com/TuranOzdemir/RandomTutorializer/assets/62646952/a90e82ef-898b-42e9-be2f-b870b3c3b3bd)
+
+
+
+
 **Contributions:**
 Contributions welcome! Submit issues, requests, or contribute to development.
 
